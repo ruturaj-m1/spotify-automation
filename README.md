@@ -70,12 +70,6 @@ pytest tests/test_spotify.py
 
 ---
 
-## 📸 Demo Screenshot
-
-![Spotify Automation Demo](./Screenshot%20(130).png)
-
----
-
 ## 📬 Author
 
 **Ruturaj Mohapatra**  
